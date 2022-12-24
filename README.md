@@ -7,3 +7,4 @@
 # Installation On Termux
 git clone https://github.com/scapy1/Instagram-Profile-checker-.git
 <br> cd Instagram-Profile-checker-</br>
+python3 newfile.py

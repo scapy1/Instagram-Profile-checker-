@@ -4,7 +4,6 @@
 # output2 
 ![Screenshot_2022-12-25-01-45-05-15_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/121354798/209449966-806d0060-49b3-47d4-8813-ee394934b3a8.jpg)
 
-# Installation 
-<sub>git clone https://github.com/scapy1/Instagram-Profile-checker-.git</sub>
+# Installation On Termux
+git clone https://github.com/scapy1/Instagram-Profile-checker-.git
 <br> cd Instagram-Profile-checker-</br>
-<br> python3 newfile.py </br>

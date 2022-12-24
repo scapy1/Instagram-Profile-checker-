@@ -7,3 +7,4 @@
 # Installation 
 <sub>git clone https://github.com/scapy1/Instagram-Profile-checker-.git</sub>
 <br> cd Instagram-Profile-checker-</br>
+<br> python3 newfile.py </br>
